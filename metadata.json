@@ -1,0 +1,5 @@
+{
+  "name": "QOLDA.AI Help Desk",
+  "description": "An intelligent IT Help Desk portal for KazakhTelecom featuring Stitch, an AI assistant. Includes ticket management, knowledge base, and administrative dashboard.",
+  "requestFramePermissions": []
+}
